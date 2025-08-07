@@ -45,7 +45,7 @@ Durée : 1 journée
 
 ## 🖼️ Aperçu (extraits visuels)
 
-![Slide exemple](slide_apercu.png)  
+![Slide exemple](slide-aperçu-1.png)  
 *(Slide illustrative sans contenu sensible)*
 
 ---
