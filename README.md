@@ -45,8 +45,13 @@ Durée : 1 journée
 
 ## 🖼️ Aperçu (extraits visuels)
 
-![Slides  exemple](./slide-aperçu-1.png)  
-*(Slide illustrative sans contenu sensible)*
+![Slides  exemple]<p float="left">
+  <img src="./Slide-aperçu-1.png" width="200"/>
+  <img src="./Slide-aperçu-2.png" width="200"/>
+  <img src="./Slide-aperçu-3.png" width="200"/>
+  <img src="./Slide-aperçu-4.png" width="200"/>
+</p> 
+*(Slides illustratives sans contenu sensible)*
 
 ---
 
@@ -55,6 +60,7 @@ Durée : 1 journée
 Pour plus d'informations ou organiser une session :
 
 **Nom :** Odile Franchet
+
 **Email :** ofranchet@gmail.com
 
 
