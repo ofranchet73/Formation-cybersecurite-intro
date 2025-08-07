@@ -51,7 +51,6 @@ Slides  exemples<p float="left">
   <img src="./Slide-aperçu-3.png" width="200"/>
   <img src="./Slide-aperçu-4.png" width="200"/>
 </p> 
-*(Slides illustratives sans contenu sensible)*
 
 ---
 
